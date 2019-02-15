@@ -11,6 +11,9 @@ yarn-error.log*
 #Claudia json file
 claudia.json
 
+#Curl commands
+curl-commands.txt
+
 # Runtime data
 pids
 *.pid
