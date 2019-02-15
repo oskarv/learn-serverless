@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/oskarv/learn-serverless/issues"
   },
-  "homepage": "https://github.com/oskarv/learn-serverless#readme"
+  "homepage": "https://github.com/oskarv/learn-serverless#readme",
+  "dependencies": {
+    "claudia-api-builder": "^4.1.2",
+    "claudia-bot-builder": "^4.5.0"
+  }
 }
