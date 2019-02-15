@@ -1,0 +1,29 @@
+{
+  "name": "pizza-api",
+  "version": "1.0.0",
+  "description": "Simple pizza ordering service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "create": "claudia create --region eu-central-1 --api-module api",
+    "update": "claudia update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarv/learn-serverless.git"
+  },
+  "devDependencies": {
+    "claudia": "^4.0.0"
+  },
+  "keywords": [
+    "pizza",
+    "aws",
+    "lambda"
+  ],
+  "author": "oskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskarv/learn-serverless/issues"
+  },
+  "homepage": "https://github.com/oskarv/learn-serverless#readme"
+}
