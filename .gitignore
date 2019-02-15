@@ -8,6 +8,9 @@ yarn-error.log*
 # Aws credentials data
 .aws
 
+#Claudia json file
+claudia.json
+
 # Runtime data
 pids
 *.pid
