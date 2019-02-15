@@ -1,4 +1,5 @@
 # learn-serverless
 Experimenting with AWS Lambdas 
 
-Following examples from [Serverless Applications With Node.js](https://www.manning.com/books/serverless-applications-with-node-js)  
+Following examples from:  <a href="https://www.manning.com/books/serverless-applications-with-node-js" target="_blank">Serverless Applications With Node.js</a>
+
