@@ -5,7 +5,7 @@ const createOrder = (order) => {
         throw new Error('Please provide valid pizza type and delivery address')
     };
 
-    return {};
+    return {"message":"Order Successfully Placed"};
 };
 
 module.exports = createOrder;
