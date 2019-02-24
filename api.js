@@ -36,11 +36,15 @@ api.put('/orders/{id}',
     }
 );
 
+api.put('/orders', () => createOrder());
+
 api.delete('/orders/{id}',
     request => deleteOrder(request.pathParams.id),
     {
         error: 400
     }
 );
+
+api.delete('/orders', () => deleteOrder())
 
 module.exports = api;
