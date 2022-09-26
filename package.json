@@ -13,7 +13,7 @@
     "url": "git+https://github.com/oskarv/learn-serverless.git"
   },
   "devDependencies": {
-    "claudia": "^4.0.0"
+    "claudia": "^5.14.1"
   },
   "keywords": [
     "pizza",
